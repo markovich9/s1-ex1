@@ -1,10 +1,11 @@
 # this is a comment in py
 # you can add as many as you like
 # some more print examples
-print("Hello")
+print("Hello Slobodan")
 print("As you can see, each print will start from a new line")
 # what if we do not want to end with a new line?
-print("we need to use the end argument, ", end="") #end is just the line of text added to the end of the print
+print("we need to use the end argument, ", end="")
+#end is just the line of text added to the end of the print
 print("so we continue on the same line", end="(end can be whatever we want). ")
 print("Pretty cool, yes?")
 # print can also print expressions
